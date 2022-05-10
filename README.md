@@ -1,6 +1,5 @@
 # Flingr
 *An easy way to transfer files between PC and mobile phones.*
-Authors:   [Adam Cubel](https://gitlab.com/adamcubel) and [Austin Alderton](https://github.com/AustinA)
 
 Flingr allows users to use 6-character activation code to automatically populate 
 SSH connection information to send files from an Android device to a PC. This
